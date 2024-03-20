@@ -6,6 +6,9 @@ export default  {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        'sequel': ['Sequel-Regular', 'sans-serif'],
+      }
     },
   },
   plugins: [],

@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: "Sequel-Regular";
+    src: local("Sequel-Regular"),
+    url("./fonts/Sequel-Regular.ttf") format("opentype");
+    font-weight: normal;
+}
